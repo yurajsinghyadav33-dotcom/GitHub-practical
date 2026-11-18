@@ -34,14 +34,6 @@ I am passionate about coding, web development, Artificial Intelligence and learn
 2. **AI Study Assistant**
    - An AI-powered learning project designed to help students with summaries, quizzes and flashcards.
 
-## 🎯 Hobbies & Interests
-
-- Coding
-- Exploring New Technologies
-- Artificial Intelligence
-- Building Projects
-- Learning Programming
-
 ## ✨ Website Features
 
 - Home Section
