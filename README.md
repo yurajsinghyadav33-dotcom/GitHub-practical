@@ -10,8 +10,7 @@
 - Subject: Git and GitHub
 
 ## About Me
-I am a Computer Science student interested in
-programming, web development and Artificial Intelligence.
+Hello! I am Yuvraj Singh Yadav, a Computer Science and IT student at Ajeenkya DY Patil University. I am interested in programming, web development, Artificial Intelligence and learning new technologies.
 
 ## Skills
 - HTML
